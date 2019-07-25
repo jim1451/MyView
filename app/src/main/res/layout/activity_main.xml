@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:yao="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+  <!--<test.com.test.CombineView-->
+      <!--android:layout_height="match_parent"-->
+      <!--android:layout_width="match_parent"-->
+      <!--yao:checked="true"-->
+      <!--yao:text="hihhhh"-->
+      <!--&gt;</test.com.test.CombineView>-->
+  <!--<test.com.test.Onlayout-->
+      <!--android:layout_width="300dp"-->
+      <!--android:layout_height="300dp"-->
+      <!--android:background="#0000ff">-->
+      <!--<TextView-->
+          <!--android:layout_width="100dp"-->
+          <!--android:layout_height="100dp"-->
+          <!--android:background="#00ff00"/>-->
+
+
+  <!--</test.com.test.Onlayout>-->
+    <!--<test.com.test.PointView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+  <test.com.test.BitmapView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content" />
+
+</android.support.constraint.ConstraintLayout>
